@@ -1,13 +1,19 @@
 ### Hey Visitor, I'm [Aditi Kandpal](https://github.com/kandpaladiti) 😊
 
+
+
 - A sophomore at Birla Institute of Applied Sciences pursuing Computer Science & Engineering.
 - I love to explore and believe am a quick learner.
 - I am learning Java and Web Development lately also practicing problems on various platforms to efficiently enhance my skillset.
 - Innovating creative designs do excite me as well at times and I plan to learn and implement design thinking principles soon.
 - I am a people person hence love to network and share my knowledge and experiences with others eagerly.
 
+
+
 - 💻 Started 100 days of code to improve my code efficiency and inculcate a habit of screentime productively.
 - 💻 Currently growing my skillset in Front End Development and DSA via Java Programming.
+
+
 
 **My Tech Interest**:
 
@@ -17,11 +23,15 @@
 - Node.js
 - JavaScript
 
+
+
   **I am open to**:
 
 - Any collobration work.
 - Research internships and projects.
 - Hackathon collaborations.
+
+
 
 ## Skills:
 
