@@ -8,7 +8,7 @@
 - Innovating creative designs do excite me as well at times and I plan to learn and implement design thinking principles soon.
 - I am a people person hence love to network and share my knowledge and experiences with others eagerly.
 
-
+#____________________________________________________________________________________________________________________________________________________________#
 
 - 💻 Started 100 days of code to improve my code efficiency and inculcate a habit of screentime productively.
 - 💻 Currently growing my skillset in Front End Development and DSA via Java Programming.
