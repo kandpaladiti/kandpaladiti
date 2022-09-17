@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @kandpaladiti
+- 👀 I’m interested in Front End Development and Problem Solving via Java
+- 🌱 I’m currently learning Web Development from Udemy and Java by Kunal Kushwaha
