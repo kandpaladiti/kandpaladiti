@@ -1,7 +1,5 @@
 ### Hey Visitor, I'm [Aditi Kandpal](https://github.com/kandpaladiti) 😊
 
-
-
 - A sophomore at Birla Institute of Applied Sciences pursuing Computer Science & Engineering.
 - I love to explore and believe am a quick learner.
 - I am learning Java and Web Development lately also practicing problems on various platforms to efficiently enhance my skillset.
@@ -49,6 +47,8 @@
 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+
+[![@kandpaladiti's Holopin board](https://holopin.me/kandpaladiti)](https://holopin.io/@kandpaladiti)
 
 ## Connect with me:
 
