@@ -1,6 +1,6 @@
 ### Hey Visitor, I'm [Aditi Kandpal](https://github.com/kandpaladiti) 😊
 
-- A sophomore at Birla Institute of Applied Sciences pursuing Computer Science & Engineering.
+- A pre final year student at Birla Institute of Applied Sciences pursuing Computer Science & Engineering.
 - I love to explore and believe am a quick learner.
 - I am learning Java and Web Development lately also practicing problems on various platforms to efficiently enhance my skillset.
 - Innovating creative designs do excite me as well at times and I plan to learn and implement design thinking principles soon.
